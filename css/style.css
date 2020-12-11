@@ -1,7 +1,6 @@
 .dimension_img {
-    margin-bottom: 30px;
-    width: 500px;
-    height: 200px;
+    width: 700px;
+    height: 350px;
     object-fit: contain;
 }
 body{
